@@ -1,0 +1,4 @@
+cd /Applications/SafeMode.app/
+mv Assets.car Assets.car.backup
+mv Assets-mac.car Assets.car
+echo Got rid of the iPhone and put a Sad Mac there :D

@@ -1,0 +1,4 @@
+cd /Applications/SafeMode.app/
+mv Assets.car Assets-mac.car
+mv Assets.car.backup Assets.car
+echo Took the sad mac off and put the iphone back!
